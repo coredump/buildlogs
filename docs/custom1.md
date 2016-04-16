@@ -178,13 +178,23 @@ Here are some shots of the finished thing:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/pY4VN"><a href="//imgur.com/a/pY4VN">Custom 1 log final</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+### Lessons learned
+
+* 6.7mm is probably too thick, should have gone with a thinner wood.
+* The color ended being what I wanted, but maybe the next time I should use a stain or maybe use tung oil as finish or first coat to pop more of the wood personality.
+* Plastic spiral is a godsend on making wires look good.
+* Wood inserts made out of brass are super flimsy, so probably should use it only on top/bottom plates and go with nuts and bolts on the side next time.
+* Also, do all the woodwork before finishing, so not to obsess about ruining the finishing when doing the dremel/drilling parts.
+
 ## Acknowledgments
 
 I was only able to do this because there are way smarter than me people on [Shoryuken tech talk](http://forums.shoryuken.com/categories/tech-talk) forums that already wrote *ad nauseam* about custom arcade sticks. 
 
+[Slagcoin](http://www.slagcoin) is the best place for everything related to building an arcade stick and all the technical information behind it. Read it top to bottom!
+
 My way isn't the only one, and probably not even the best one! :)
 
-No links on this documentation contain referrals or similar things. Pay me a beer/coffee sometime and we are good.
+No links on this documentation contain referrals or similar things. Pay me a beer/coffee sometime and we are good if you want to show appreciation. Also mention me if you ever post anything related to this on SRK or Reddit or twitter or etc :).
 
 ## Version history
 
