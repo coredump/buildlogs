@@ -2,7 +2,7 @@ site_name: coredump build logs
 theme: yeti
 google_analytics: [ UA-41494372-2, 'auto' ]
 site_url: http://coredump.io/buildlogs
-# repo_url: https://github.com/coredump/buildlogs.coredump.io
+repo_url: https://github.com/coredump/buildlogs
 markdown_extensions:
   - smarty
   - admonition
