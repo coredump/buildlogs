@@ -1,0 +1,1 @@
+Check my [main blog page](http://coredump.io) for info on my twitter account. You can also drop me an email on coredump at coredump.io, or find me on Freenode or Snoonet IRC.
