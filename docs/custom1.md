@@ -1,5 +1,7 @@
 # The Custom 1 fightstick
 
+<div class="shariff" data-lang="en" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;reddit&quot;]" data-theme="white"></div>
+
 ![custom 1](http://i.imgur.com/mvl4zAL.jpg)
 
 ## Why
@@ -185,7 +187,7 @@ Here are some shots of the finished thing:
 * Plastic spiral is a godsend on making wires look good.
 * Wood inserts made out of brass are super flimsy, so probably should use it only on top/bottom plates and go with nuts and bolts on the side next time.
 * Also, do all the woodwork before finishing, so not to obsess about ruining the finishing when doing the dremel/drilling parts.
-
+ 
 ## Acknowledgments
 
 I was only able to do this because there are way smarter than me people on [Shoryuken tech talk](http://forums.shoryuken.com/categories/tech-talk) forums that already wrote *ad nauseam* about custom arcade sticks. 
@@ -198,6 +200,12 @@ No links on this documentation contain referrals or similar things. Pay me a bee
 
 ## Version history
 
-2016-04-16: First version
+2016-04-15: First version    
+2016-04-16: Added share buttons, fixed some text.
 
 [^1]: *endgame* is a concept that people on `/r/mechanicalkeyboards` have for the perfect device, the one you won't need to update anymore. Or at least for a long time!
+
+___
+
+<div class="shariff" data-lang="en" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;reddit&quot;]" data-theme="white"></div>
+

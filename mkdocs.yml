@@ -7,8 +7,12 @@ markdown_extensions:
   - smarty
   - admonition
   - footnotes
+  - toc
 extra_css:
   - css/admonitions.css
+  - css/shariff.complete.css
+extra_javascript:
+  - js/shariff.complete.js
 copyright: "&copy; 2016 Jose Junior. Some rights reserved."
 site_description: Some DIY adventures
 site_author: Jose Junior (coredump)
