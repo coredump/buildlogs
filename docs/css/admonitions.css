@@ -1,0 +1,70 @@
+div.admonition, div.warning {
+    font-size: 0.9em;
+    margin: 1em 0 1em 0;
+    border: 1px solid #86989B;
+    background-color: #f7f7f7;
+    padding: 0;
+}
+
+div.admonition p, div.warning p {
+    margin: 0.5em 1em 0.5em 1em;
+    padding: 0;
+}
+
+div.admonition pre, div.warning pre {
+    margin: 0.4em 1em 0.4em 1em;
+}
+
+div.admonition p.admonition-title,
+div.warning p.admonition-title {
+    margin: 0;
+    padding: 0.1em 0 0.1em 0.5em;
+    color: white;
+    border-bottom: 1px solid #86989B;
+    font-weight: bold;
+    background-color: #AFC1C4;
+}
+
+div.error,
+div.danger {
+    border: 1px solid #940000;
+}
+
+div.error p.admonition-title,
+div.danger p.admonition-title {
+    background-color: #CF0000;
+    border-bottom-color: #940000;
+}
+
+div.attention,
+div.caution,
+div.warning {
+    border: 1px solid #8a6d3b;
+}
+
+div.attention p.admonition-title,
+div.caution p.admonition-title,
+div.warning p.admonition-title {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-bottom-color: #8a6d3b;
+}
+
+
+div.tip,
+div.hint {
+    border: 1px solid #31708f;
+}
+
+div.tip p.admonition-title,
+div.hint p.admonition-title {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-bottom-color: #31708f;
+}
+
+div.admonition ul, div.admonition ol,
+div.warning ul, div.warning ol {
+    margin: 0.1em 0.5em 0.5em 3em;
+    padding: 0;
+}
