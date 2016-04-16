@@ -2,9 +2,11 @@ site_name: coredump build logs
 theme: yeti
 google_analytics: [ UA-41494372-2, 'auto' ]
 site_url: http://coredump.io/buildlogs
+# repo_url: https://github.com/coredump/buildlogs.coredump.io
 markdown_extensions:
   - smarty
   - admonition
+  - footnotes
 extra_css:
   - css/admonitions.css
 copyright: "&copy; 2016 Jose Junior. Some rights reserved."
@@ -12,4 +14,6 @@ site_description: Some DIY adventures
 site_author: Jose Junior (coredump)
 pages:
   - "home": index.md
-  - "custom 1 fightstick": custom1.md
+  - logs:
+    - "custom 1 fightstick": custom1.md
+  - contact: contact.md
