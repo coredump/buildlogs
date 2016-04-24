@@ -15,7 +15,7 @@ Also I decided to name it **Custom 1** because why not.
 !!! hint
 	 To prevent confusion, I will use *arcarde stick* and *fightstick* interchangeably. I will use *stick* to refer to the actual lever that you use to move around. 
 
-## Parts list and price
+## Parts list 
 
 I will be honest: this can get pricey. You can salvage some stuff from older fightsticks (some people sell broken fightsticks on craigslist all the time and usually you can get good buttons and even a working stick from it) and source parts from different stores. Some parts are cheaper on electronic/hardware stores than buying on a store specialized on arcade parts.
 

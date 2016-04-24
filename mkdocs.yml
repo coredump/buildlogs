@@ -20,4 +20,5 @@ pages:
   - "home": index.md
   - logs:
     - "custom 1 fightstick": custom1.md
+    - "clueboard 2 mechanical keyboard": clueboard2.md
   - contact: contact.md
