@@ -21,4 +21,5 @@ pages:
   - logs:
     - "custom 1 fightstick": custom1.md
     - "clueboard 2 mechanical keyboard": clueboard2.md
+    - "custom 2 fightstick": custom2.md
   - contact: contact.md
